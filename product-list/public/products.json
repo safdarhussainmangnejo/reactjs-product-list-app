@@ -1,0 +1,26 @@
+{
+    "products": [
+      { "id": 1, "name": "Mobile", "price": 10000 },
+      { "id": 2, "name": "Laptop", "price": 200000 },
+      { "id": 3, "name": "Computer", "price": 150000 },
+      { "id": 4, "name": "Earbuds", "price": 2500 },
+      { "id": 5, "name": "Speaker", "price": 3000 },
+      { "id": 6, "name": "Handfree", "price": 1800 },
+      { "id": 7, "name": "Camera", "price": 40000 },
+      { "id": 8, "name": "Memory Card", "price": 800 },
+      { "id": 9, "name": "CD", "price": 500 },
+      { "id": 10, "name": "Laptop", "price": 170000 },
+      { "id": 11, "name": "Mobile", "price": 70000 },
+      { "id": 12, "name": "Laptop", "price": 200000 },
+      { "id": 13, "name": "Computer", "price": 250000 },
+      { "id": 14, "name": "Earbuds", "price": 8500 },
+      { "id": 15, "name": "Speaker", "price": 3000 },
+      { "id": 16, "name": "Handfree", "price": 2800 },
+      { "id": 17, "name": "Camera", "price": 70000 },
+      { "id": 18, "name": "Memory Card", "price": 800 },
+      { "id": 19, "name": "DVD", "price": 700 },
+      { "id": 20, "name": "Laptop", "price": 120000 }
+    ]
+  }
+  
+  
