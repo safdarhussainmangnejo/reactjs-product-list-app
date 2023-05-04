@@ -57,18 +57,6 @@ const ProductList = () => {
     }
   }, [sortOption]);
 
-//   const displayProducts = () => {
-//     const start = (currentPage - 1) * itemsPerPage;
-//     const end = start + itemsPerPage;
-
-//     return filteredProducts.slice(start, end).map((product) => (
-        
-//       <div key={product.id}>
-//         {product.name} - {product.price}
-//       </div>
-//     ));
-//   };
-
 const displayProducts = () => {
     const start = (currentPage - 1) * itemsPerPage;
     const end = start + itemsPerPage;
